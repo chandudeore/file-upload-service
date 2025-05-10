@@ -1,0 +1,50 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+
+# Environment
+.env
+.env.local
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Testing
+coverage/
+
+# IDE
+.idea/
+
+# Compiled binary addons (like node-sass)
+build/Release
+
+# Grunt intermediate storage
+.grunt
+
+# Compiled TypeScript
+*.tsbuildinfo
+
+# Yarn
+yarn-error.log
+yarn.lock
